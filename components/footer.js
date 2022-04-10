@@ -11,7 +11,7 @@ export default function Footer() {
     return (
         <footer>
             <a
-                href="https://vercel.com/?utm_source=swr"
+                href="https://vercel.com/?utm_source=morrigan"
                 target="_blank"
                 rel="noopener"
             >

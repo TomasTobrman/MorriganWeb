@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Footer from '../components/footer'
 
 export default function Home() {
     return (
@@ -16,6 +17,8 @@ export default function Home() {
                 <p className="description">
                     under construction ...
                 </p>
+
+                <Footer />
             </main>
 
             <style jsx>{`

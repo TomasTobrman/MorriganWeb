@@ -5,7 +5,7 @@ export default function Home() {
     return (
         <div className="container">
             <Head>
-                <title>Morrigan Wiki</title>
+                <title>Morrigan</title>
                 <link rel="icon" href="/favicon/vercel.ico" />
             </Head>
 

@@ -1,3 +1,3 @@
 # Morrigan Wiki
 
-###### Wiki page for the Morrigan engine
+###### Webpage for the Morrigan engine
